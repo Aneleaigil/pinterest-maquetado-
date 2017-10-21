@@ -1,0 +1,44 @@
+
+.borde{
+	border: 1px solid grey;
+}
+
+/*.buscador{
+	background: #E6E6E6;
+	border: 1px solid black;
+	width: 900px;
+	height: 50px
+	left:100px;
+	top:50px;
+	position: absolute;
+}*/
+body {
+	font-family: sans-serif;
+}
+.contenedor_fotos{
+column-count: 4;
+padding: 35px;
+
+}
+
+img{
+width: 250px;
+text-align: center;
+}
+
+/*.barra_menu{
+	position: absolute;
+	display: inline-block;
+	left: 100px;
+}*/
+li{ 
+	float-left:300px;
+	display: inline-block;
+	width: 100px;
+	height: 45px;
+	background: yellow;
+	margin:10px;
+    border:1px solid black;
+    text-align: center;
+    padding:10px;
+}
